@@ -1,2 +1,2 @@
 # PvsZ-Unity
-A basic Plants vs Zombies clone, made in Unity with Assets from "Glitch The Game"
+A basic Plants vs Zombies clone, made in Unity with Assets from ["Glitch The Game"](https://www.glitchthegame.com/downloads/)
