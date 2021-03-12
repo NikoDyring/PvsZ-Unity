@@ -1,6 +1,8 @@
 # PvsZ-Unity
 A basic Plants vs Zombies clone, made in Unity with Assets from ["Glitch The Game"](https://www.glitchthegame.com/downloads/)
 
+Overhaul is coming in 2021 as I'd like to revisit and continue on this project.
+
 ## Features
 * Splash Screen with sound
 * Main Menu with Options Menu
